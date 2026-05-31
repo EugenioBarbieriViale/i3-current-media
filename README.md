@@ -2,6 +2,10 @@
 Show what is playing on your i3 status bar. 
 This script uses `playerctl` and `jq`
 
+# Screenshots
+![playing](screenshots/playing.png)
+![paused](screenshots/paused.png)
+
 # Usage
 Download `i3status_media.sh` and add it to your i3 config like so:
 ```
