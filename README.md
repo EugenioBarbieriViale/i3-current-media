@@ -1,5 +1,5 @@
 # i3-current-media
-Show what is playing on your i3 status bar. \ 
+Show what is playing on your i3 status bar. 
 This script uses `playerctl` and `jq`
 
 # Usage
